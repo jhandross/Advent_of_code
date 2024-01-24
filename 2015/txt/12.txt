@@ -1,0 +1,3717 @@
+
+Filtrar JSON
+mi	
+0	
+0	
+mi	86
+C	23
+a	
+a	
+0	120
+1	169
+2	"verde"
+3	"rojo"
+4	"naranja"
+b	"rojo"
+gramo	"amarillo"
+b	
+0	"amarillo"
+d	"rojo"
+F	-19
+1	
+mi	-47
+a	
+0	2
+d	
+a	"Violeta"
+C	"verde"
+h	"naranja"
+b	
+mi	59
+a	"amarillo"
+d	"verde"
+C	47
+h	"rojo"
+b	"azul"
+gramo	"naranja"
+F	
+0	"Violeta"
+1	43
+2	168
+3	78
+gramo	"naranja"
+F	
+0	
+mi	
+0	82
+1	-41
+2	2
+3	"rojo"
+4	"Violeta"
+5	"naranja"
+6	"amarillo"
+C	"verde"
+a	77
+gramo	"naranja"
+b	147
+d	49
+F	"azul"
+1	-1
+2	142
+3	136
+4	
+0	"verde"
+1	"rojo"
+2	166
+3	-21
+5	"azul"
+6	"naranja"
+7	
+a	38
+2	"naranja"
+3	"amarillo"
+1	"verde"
+2	-22
+3	
+0	37
+1	
+0	4
+1	-40
+2	
+0	"rojo"
+1	"amarillo"
+2	
+0	"amarillo"
+1	177
+2	"rojo"
+3	"azul"
+4	139
+5	
+0	55
+1	13
+2	"amarillo"
+3	"Violeta"
+4	-21
+5	140
+6	"amarillo"
+7	117
+6	"azul"
+7	"azul"
+8	106
+3	"azul"
+4	
+a	23
+3	183
+4	92
+5	"naranja"
+6	"verde"
+2	"naranja"
+4	-5
+C	
+0	
+mi	
+mi	-13
+C	-11
+a	
+a	49
+b	189
+gramo	144
+b	186
+d	
+mi	
+0	146
+1	
+0	32
+1	"Violeta"
+2	"rojo"
+3	"naranja"
+4	-22
+2	"azul"
+3	"Violeta"
+4	57
+5	
+mi	12
+a	"rojo"
+d	37
+C	-13
+h	"verde"
+b	-27
+gramo	"naranja"
+F	"naranja"
+i	"rojo"
+6	56
+7	-1
+8	"rojo"
+9	-25
+C	-14
+a	
+0	
+0	"naranja"
+1	"verde"
+2	"verde"
+3	"rojo"
+4	-25
+1	-dieciséis
+2	104
+3	177
+4	"rojo"
+gramo	"rojo"
+b	"azul"
+d	2
+F	"verde"
+F	
+0	
+mi	
+C	-15
+a	"verde"
+b	144
+d	-32
+C	"amarillo"
+a	
+0	"azul"
+1	"azul"
+b	"amarillo"
+d	135
+F	"Violeta"
+a	
+mi	"azul"
+a	
+0	145
+1	128
+2	"naranja"
+3	"Violeta"
+4	23
+5	
+0	"naranja"
+1	
+0	78
+1	"amarillo"
+2	"naranja"
+3	"naranja"
+4	"naranja"
+5	"verde"
+6	122
+7	-35
+8	"azul"
+2	159
+3	114
+d	"amarillo"
+C	
+mi	
+0	100
+1	"verde"
+2	
+mi	"azul"
+a	36
+d	84
+j	"naranja"
+C	"azul"
+h	118
+b	85
+gramo	"Violeta"
+F	"azul"
+i	27
+3	"azul"
+4	"azul"
+a	"rojo"
+d	"azul"
+j	
+0	159
+1	22
+2	"Violeta"
+3	"naranja"
+4	"azul"
+5	"naranja"
+6	"azul"
+7	186
+8	175
+9	
+mi	29
+a	150
+d	"verde"
+C	129
+h	138
+b	-29
+gramo	7
+F	"rojo"
+i	"Violeta"
+C	"amarillo"
+h	
+0	"azul"
+1	-9
+2	41
+3	
+mi	144
+C	"Violeta"
+a	161
+b	116
+d	126
+F	197
+4	173
+5	123
+6	50
+7	"rojo"
+8	154
+b	-23
+gramo	"naranja"
+F	"verde"
+i	"rojo"
+h	26
+b	30
+gramo	106
+F	
+C	
+mi	-28
+C	
+0	"rojo"
+1	"Violeta"
+2	"azul"
+3	"naranja"
+4	"amarillo"
+5	"Violeta"
+6	-30
+7	134
+8	0
+a	-37
+b	41
+d	143
+a	121
+b	"amarillo"
+d	
+0	198
+1	"amarillo"
+d	
+mi	-2
+a	"verde"
+d	
+a	0
+b	"azul"
+j	"Violeta"
+C	
+0	
+mi	"Violeta"
+a	"naranja"
+d	"Violeta"
+C	-36
+h	68
+b	195
+gramo	41
+F	63
+1	11
+2	-20
+3	
+mi	
+0	100
+1	43
+2	183
+a	"amarillo"
+d	
+0	"naranja"
+1	"amarillo"
+2	"Violeta"
+3	"amarillo"
+4	143
+5	162
+6	-23
+7	168
+8	145
+9	-33
+j	80
+C	"naranja"
+h	
+a	"naranja"
+b	"Violeta"
+gramo	-21
+F	-38
+i	"verde"
+4	
+mi	"rojo"
+a	81
+d	3
+C	"azul"
+h	
+0	167
+1	"azul"
+2	"amarillo"
+3	135
+4	64
+5	116
+6	134
+7	14
+8	160
+b	"rojo"
+gramo	"azul"
+F	"verde"
+5	
+0	"rojo"
+1	
+0	139
+1	"naranja"
+2	"azul"
+3	"azul"
+4	"naranja"
+5	"azul"
+2	"naranja"
+3	"rojo"
+4	113
+5	26
+6	"amarillo"
+7	"amarillo"
+8	85
+h	
+0	
+0	117
+1	"amarillo"
+2	
+mi	187
+C	"naranja"
+a	-22
+b	
+0	"naranja"
+d	68
+3	154
+4	
+0	"verde"
+1	"naranja"
+2	"azul"
+3	87
+4	"verde"
+5	"naranja"
+6	46
+7	"Violeta"
+5	
+a	
+mi	178
+C	"azul"
+a	-2
+gramo	99
+b	"naranja"
+d	-34
+F	"verde"
+6	"azul"
+b	"Violeta"
+gramo	
+0	13
+1	"amarillo"
+2	43
+3	"naranja"
+F	
+mi	-40
+a	"azul"
+d	50
+C	"Violeta"
+h	
+mi	"naranja"
+a	
+0	-27
+1	159
+2	"Violeta"
+3	"rojo"
+4	130
+5	83
+6	"rojo"
+7	"Violeta"
+8	-27
+d	-42
+j	"azul"
+C	9
+h	
+mi	"amarillo"
+a	"azul"
+d	177
+C	156
+h	"Violeta"
+b	0
+gramo	"naranja"
+F	-43
+i	"naranja"
+b	"azul"
+gramo	
+0	114
+1	"azul"
+2	-4
+3	"rojo"
+4	"rojo"
+5	"amarillo"
+6	"verde"
+F	81
+i	"rojo"
+b	73
+gramo	176
+F	"rojo"
+i	
+mi	
+0	"naranja"
+1	-dieciséis
+2	
+0	"Violeta"
+1	63
+2	"azul"
+3	-40
+4	119
+5	22
+6	"naranja"
+7	"naranja"
+8	"Violeta"
+9	"verde"
+3	-30
+4	
+mi	"amarillo"
+C	172
+a	"verde"
+gramo	"amarillo"
+b	"verde"
+d	"amarillo"
+F	"rojo"
+5	190
+6	28
+7	
+mi	"naranja"
+C	"rojo"
+a	"naranja"
+b	51
+d	-31
+F	136
+8	"naranja"
+9	82
+a	"azul"
+d	"rojo"
+C	
+0	"azul"
+1	81
+2	"azul"
+3	"azul"
+4	"verde"
+5	191
+6	"azul"
+7	"azul"
+8	1
+h	
+mi	"naranja"
+C	
+mi	"azul"
+a	"verde"
+d	55
+j	-36
+C	13
+h	"amarillo"
+b	162
+gramo	82
+F	"rojo"
+i	"rojo"
+a	"Violeta"
+b	"amarillo"
+d	-24
+F	190
+b	
+0	
+mi	"verde"
+a	"verde"
+d	-49
+j	"verde"
+C	"naranja"
+h	43
+b	"naranja"
+gramo	35
+F	"Violeta"
+i	"azul"
+1	"amarillo"
+2	32
+3	"amarillo"
+gramo	"azul"
+F	0
+C	"azul"
+h	69
+b	166
+gramo	
+0	
+0	88
+1	
+0	"azul"
+1	21
+2	"amarillo"
+3	"Violeta"
+1	
+0	"rojo"
+1	169
+2	"rojo"
+F	176
+1	
+mi	
+0	"amarillo"
+1	88
+2	164
+3	
+mi	"rojo"
+C	"amarillo"
+a	
+0	20
+1	"azul"
+2	"Violeta"
+gramo	-31
+b	80
+d	"amarillo"
+F	"verde"
+4	
+mi	"naranja"
+C	"verde"
+a	149
+b	"naranja"
+d	-46
+F	
+0	160
+1	83
+2	"naranja"
+3	"rojo"
+4	177
+5	-11
+5	"verde"
+6	
+0	156
+1	"rojo"
+2	
+C	7
+a	
+0	152
+1	107
+2	130
+b	
+C	"amarillo"
+a	114
+b	38
+d	"azul"
+d	"naranja"
+3	
+a	49
+b	-34
+4	34
+5	-32
+6	"verde"
+a	134
+d	-12
+C	
+0	-33
+1	
+mi	102
+a	"rojo"
+d	
+mi	"naranja"
+a	"verde"
+d	43
+C	"Violeta"
+h	
+a	"Violeta"
+b	-24
+gramo	"azul"
+F	"azul"
+i	
+0	68
+1	"azul"
+j	-28
+C	87
+h	"Violeta"
+b	122
+gramo	"Violeta"
+F	"verde"
+i	"Violeta"
+h	"Violeta"
+b	
+0	"naranja"
+1	-14
+2	
+mi	37
+a	86
+d	
+mi	186
+a	-25
+d	71
+C	"naranja"
+h	86
+b	113
+gramo	27
+F	"verde"
+i	"amarillo"
+C	dieciséis
+h	"naranja"
+b	"verde"
+gramo	
+0	"amarillo"
+1	"amarillo"
+2	
+0	"naranja"
+1	"Violeta"
+2	"Violeta"
+3	"verde"
+4	58
+5	"naranja"
+3	
+0	"naranja"
+1	131
+2	"rojo"
+3	"azul"
+4	"naranja"
+5	183
+6	82
+7	"naranja"
+8	"amarillo"
+9	"azul"
+4	49
+5	"naranja"
+6	"Violeta"
+7	"Violeta"
+8	"amarillo"
+9	"naranja"
+F	"amarillo"
+3	
+0	141
+1	"Violeta"
+2	"rojo"
+3	-24
+4	18
+5	103
+6	88
+7	169
+8	75
+4	
+0	"amarillo"
+1	
+0	"verde"
+1	55
+2	92
+3	"amarillo"
+4	"naranja"
+5	135
+6	
+mi	"verde"
+C	141
+a	-11
+b	129
+d	"naranja"
+F	"verde"
+7	"Violeta"
+2	14
+3	
+0	
+a	130
+1	
+0	"rojo"
+1	"Violeta"
+2	182
+3	"azul"
+4	149
+5	"naranja"
+6	-25
+7	"azul"
+8	"azul"
+2	61
+3	-18
+4	"naranja"
+5	14
+6	
+mi	"rojo"
+a	135
+d	"amarillo"
+j	"rojo"
+C	23
+h	89
+b	82
+gramo	"naranja"
+F	"rojo"
+i	72
+7	"rojo"
+4	
+0	"rojo"
+1	"azul"
+2	"rojo"
+3	78
+4	134
+5	53
+6	160
+5	-20
+6	98
+7	
+mi	
+0	198
+1	69
+2	168
+3	145
+4	-29
+5	"rojo"
+6	"naranja"
+7	"naranja"
+8	"amarillo"
+a	"Violeta"
+d	"verde"
+j	184
+C	
+0	7
+1	99
+2	186
+3	"azul"
+h	10
+b	"azul"
+gramo	166
+F	"amarillo"
+i	177
+5	"verde"
+6	
+mi	"rojo"
+a	"verde"
+d	-8
+j	-47
+C	
+mi	"naranja"
+C	74
+a	"amarillo"
+b	"naranja"
+d	34
+F	124
+h	152
+b	"rojo"
+gramo	"amarillo"
+F	161
+i	
+0	"azul"
+1	"rojo"
+2	"naranja"
+3	"naranja"
+4	"naranja"
+5	-38
+6	"naranja"
+7	"rojo"
+7	"amarillo"
+8	"azul"
+9	75
+gramo	
+0	67
+1	
+0	"naranja"
+1	109
+2	114
+3	32
+4	"verde"
+5	"verde"
+6	"amarillo"
+7	
+0	"amarillo"
+1	"naranja"
+2	-40
+3	
+0	"verde"
+1	"naranja"
+2	"amarillo"
+3	187
+4	3
+5	"amarillo"
+6	"Violeta"
+7	"naranja"
+8	195
+9	"amarillo"
+4	"azul"
+5	"amarillo"
+6	"azul"
+2	
+0	32
+1	
+C	43
+a	"rojo"
+b	"azul"
+d	25
+3	
+C	"rojo"
+a	24
+b	139
+4	
+mi	"naranja"
+a	153
+d	43
+C	143
+h	
+0	"Violeta"
+1	"amarillo"
+2	"verde"
+3	159
+4	165
+5	
+a	"azul"
+b	"Violeta"
+b	150
+gramo	
+0	"rojo"
+1	"rojo"
+2	"naranja"
+3	
+0	138
+1	"verde"
+F	"verde"
+5	"Violeta"
+6	-12
+7	"rojo"
+8	
+0	"Violeta"
+1	"verde"
+F	
+mi	
+mi	39
+a	"naranja"
+d	
+mi	
+0	11
+C	"Violeta"
+a	"naranja"
+gramo	49
+b	"rojo"
+d	0
+F	
+a	45
+C	"Violeta"
+h	-30
+b	
+0	93
+1	-1
+2	"rojo"
+3	
+0	39
+1	"rojo"
+2	"verde"
+4	"verde"
+5	
+0	154
+1	"azul"
+2	"naranja"
+3	147
+4	"naranja"
+5	"amarillo"
+6	106
+7	
+0	"verde"
+1	71
+2	-9
+8	-37
+gramo	"azul"
+F	"azul"
+i	176
+C	98
+a	164
+b	
+0	"Violeta"
+1	"naranja"
+2	
+0	85
+1	
+mi	"amarillo"
+a	113
+d	176
+C	"verde"
+h	"Violeta"
+b	"naranja"
+gramo	166
+F	"verde"
+i	"verde"
+2	
+0	145
+1	"verde"
+2	-7
+3	"Violeta"
+3	
+mi	
+0	"verde"
+1	"verde"
+a	"rojo"
+d	79
+j	"azul"
+C	-41
+h	"amarillo"
+b	"Violeta"
+gramo	"azul"
+F	148
+i	20
+d	12
+F	
+0	-34
+1	"amarillo"
+2	
+mi	
+mi	
+0	
+a	159
+1	
+0	"rojo"
+1	-46
+2	
+a	11
+3	166
+4	116
+5	
+mi	-39
+C	-24
+a	194
+b	27
+d	91
+6	-37
+7	85
+8	
+0	"verde"
+9	61
+2	"amarillo"
+3	
+a	135
+4	
+0	"naranja"
+1	"naranja"
+2	128
+3	"verde"
+4	-20
+5	97
+6	
+mi	108
+C	195
+a	"azul"
+gramo	51
+b	"verde"
+d	"Violeta"
+F	28
+a	"verde"
+d	164
+C	"Violeta"
+h	"naranja"
+b	"verde"
+gramo	
+mi	"rojo"
+C	151
+a	"Violeta"
+b	46
+d	"amarillo"
+F	
+0	"rojo"
+F	-35
+i	"naranja"
+a	
+mi	7
+a	
+a	-28
+d	151
+C	
+C	147
+a	165
+b	
+0	-5
+1	
+0	"Violeta"
+1	"azul"
+2	"naranja"
+3	"Violeta"
+4	3
+5	"amarillo"
+6	86
+7	"naranja"
+8	197
+9	51
+2	6
+3	156
+4	43
+5	94
+6	"azul"
+7	
+mi	130
+C	"naranja"
+a	-29
+b	89
+d	-41
+F	"naranja"
+8	76
+h	
+mi	153
+a	"Violeta"
+d	"amarillo"
+j	"verde"
+C	
+C	"azul"
+a	"Violeta"
+b	113
+d	"amarillo"
+h	
+mi	"azul"
+a	
+0	"amarillo"
+1	29
+2	69
+d	"naranja"
+C	"rojo"
+h	"verde"
+b	164
+gramo	"azul"
+F	
+C	dieciséis
+a	191
+b	61
+b	195
+gramo	"amarillo"
+F	"verde"
+i	"rojo"
+b	82
+gramo	
+0	51
+1	-47
+2	186
+3	
+mi	4
+C	27
+a	60
+b	"naranja"
+d	32
+F	"Violeta"
+4	
+mi	"azul"
+a	72
+d	17
+j	"azul"
+C	"rojo"
+h	0
+b	"amarillo"
+gramo	195
+F	
+0	"rojo"
+1	"verde"
+2	82
+3	-31
+4	"azul"
+5	-24
+6	"amarillo"
+7	"rojo"
+8	"Violeta"
+i	43
+5	
+0	"verde"
+F	"azul"
+d	
+0	"Violeta"
+1	22
+2	118
+j	-45
+C	174
+h	79
+b	180
+gramo	
+C	-7
+a	
+mi	
+0	"azul"
+1	"Violeta"
+C	"azul"
+a	"Violeta"
+gramo	"rojo"
+b	"naranja"
+d	"naranja"
+F	
+a	"Violeta"
+b	33
+b	183
+d	132
+F	
+0	"Violeta"
+1	"Violeta"
+2	"verde"
+3	
+0	
+0	
+0	66
+1	"Violeta"
+2	"Violeta"
+3	"verde"
+4	"verde"
+1	
+0	181
+1	"amarillo"
+2	167
+3	134
+4	"naranja"
+5	
+mi	"rojo"
+C	"Violeta"
+a	"Violeta"
+b	107
+d	-19
+6	
+mi	0
+C	166
+a	"verde"
+b	"azul"
+d	"rojo"
+2	19
+3	-31
+4	108
+i	
+0	"rojo"
+1	"rojo"
+2	
+0	159
+3	
+0	139
+1	"azul"
+2	
+a	106
+3	48
+4	117
+5	164
+6	
+0	"azul"
+1	161
+2	"verde"
+3	174
+4	"naranja"
+5	152
+6	"rojo"
+7	"naranja"
+8	
+0	"rojo"
+1	"amarillo"
+2	"azul"
+3	-43
+7	105
+8	22
+9	"verde"
+4	
+0	110
+3	153
+4	
+a	
+mi	"naranja"
+a	
+0	
+mi	"rojo"
+a	"amarillo"
+d	"verde"
+C	"Violeta"
+h	
+mi	"azul"
+C	62
+a	148
+gramo	"Violeta"
+b	6
+d	"amarillo"
+F	-1
+b	"amarillo"
+gramo	-14
+F	58
+1	"Violeta"
+2	"amarillo"
+3	
+mi	4
+a	"azul"
+d	
+mi	"verde"
+a	-49
+d	"amarillo"
+j	-39
+C	"naranja"
+h	"rojo"
+b	"azul"
+gramo	59
+F	"Violeta"
+i	46
+C	195
+h	22
+b	160
+gramo	"naranja"
+F	"naranja"
+i	38
+4	"rojo"
+5	
+0	"naranja"
+1	"rojo"
+2	"amarillo"
+3	34
+4	101
+5	"amarillo"
+6	40
+7	
+0	"naranja"
+1	
+mi	148
+C	"rojo"
+a	85
+gramo	62
+b	-13
+d	-25
+F	"naranja"
+2	-47
+3	34
+4	
+mi	"Violeta"
+C	80
+a	"rojo"
+b	34
+d	100
+5	58
+6	185
+7	"amarillo"
+8	"naranja"
+9	
+0	"amarillo"
+1	"verde"
+2	"Violeta"
+3	84
+4	"azul"
+5	"naranja"
+6	13
+8	183
+d	"rojo"
+j	
+0	-2
+1	"rojo"
+2	"amarillo"
+3	176
+4	-24
+5	140
+6	"azul"
+7	"amarillo"
+8	155
+9	
+mi	-28
+C	"Violeta"
+a	
+a	"verde"
+b	3
+b	"rojo"
+d	-dieciséis
+C	
+0	"Violeta"
+1	-dieciséis
+h	"azul"
+b	"verde"
+gramo	
+0	"amarillo"
+1	"amarillo"
+2	"amarillo"
+3	44
+4	"naranja"
+5	50
+6	36
+7	
+mi	"verde"
+a	162
+d	112
+C	166
+h	92
+b	31
+gramo	"azul"
+F	-12
+F	"amarillo"
+i	
+0	"amarillo"
+1	"Violeta"
+2	
+0	19
+1	"rojo"
+2	
+0	"Violeta"
+1	"Violeta"
+2	195
+3	
+0	"amarillo"
+1	
+0	106
+2	"rojo"
+3	"naranja"
+4	"azul"
+4	178
+5	
+mi	"Violeta"
+a	104
+d	"rojo"
+C	"amarillo"
+h	
+C	-47
+a	"azul"
+b	84
+b	"verde"
+gramo	0
+F	"azul"
+i	"rojo"
+6	105
+5	
+mi	7
+C	
+0	156
+a	
+a	
+mi	
+mi	"Violeta"
+a	
+0	"azul"
+1	"amarillo"
+2	"naranja"
+d	"verde"
+C	
+0	159
+1	"azul"
+2	"Violeta"
+3	"rojo"
+4	61
+5	3
+h	"rojo"
+b	"verde"
+gramo	132
+F	130
+C	92
+a	"naranja"
+b	"verde"
+d	
+0	186
+1	122
+F	"amarillo"
+gramo	
+0	"amarillo"
+1	"Violeta"
+b	"Violeta"
+d	
+mi	
+C	"naranja"
+a	127
+b	41
+d	
+0	36
+1	61
+2	178
+3	"amarillo"
+4	"verde"
+5	"rojo"
+6	"Violeta"
+7	
+mi	-18
+a	"amarillo"
+d	"rojo"
+C	0
+h	"amarillo"
+b	"amarillo"
+gramo	6
+F	"amarillo"
+8	162
+C	-6
+a	
+C	
+mi	"rojo"
+C	78
+a	"azul"
+b	91
+d	49
+F	14
+a	
+0	"verde"
+b	
+a	22
+d	
+a	"azul"
+b	154
+d	"naranja"
+F	
+a	170
+F	-33
+6	"azul"
+7	82
+a	
+C	
+0	"verde"
+1	
+0	"rojo"
+1	"naranja"
+2	
+mi	-28
+a	
+a	"Violeta"
+b	110
+d	
+0	
+0	174
+1	140
+2	72
+1	191
+2	"amarillo"
+3	108
+4	195
+5	
+a	"Violeta"
+6	147
+7	53
+C	"amarillo"
+h	"verde"
+b	"Violeta"
+gramo	"rojo"
+F	
+0	"azul"
+1	"naranja"
+2	"Violeta"
+3	
+0	48
+1	118
+4	156
+5	144
+6	-46
+7	110
+8	
+0	"naranja"
+1	"amarillo"
+2	"azul"
+3	"rojo"
+9	149
+i	
+mi	"naranja"
+C	101
+a	
+mi	111
+a	"azul"
+d	"naranja"
+j	"naranja"
+C	-40
+h	13
+b	"naranja"
+gramo	"amarillo"
+F	32
+i	"amarillo"
+gramo	
+mi	"naranja"
+a	"azul"
+d	195
+j	81
+C	185
+h	20
+b	4
+gramo	"verde"
+F	112
+i	147
+b	-22
+d	199
+F	"amarillo"
+3	"amarillo"
+4	19
+5	128
+6	-3
+7	27
+8	
+0	"naranja"
+1	
+mi	-8
+C	156
+a	"amarillo"
+b	"rojo"
+d	20
+F	-37
+2	
+0	
+C	19
+a	"azul"
+b	150
+1	"naranja"
+2	-12
+3	9
+2	
+0	12
+1	
+mi	"azul"
+C	162
+a	
+0	"azul"
+1	184
+2	"amarillo"
+3	"naranja"
+4	
+a	"amarillo"
+b	"verde"
+5	88
+6	-19
+7	60
+8	"amarillo"
+gramo	"amarillo"
+b	191
+d	-6
+F	"Violeta"
+3	
+C	"amarillo"
+a	"naranja"
+b	
+a	"Violeta"
+b	
+0	"naranja"
+1	"naranja"
+2	"Violeta"
+3	
+mi	"rojo"
+a	"rojo"
+d	163
+C	153
+h	"verde"
+b	6
+gramo	"azul"
+F	17
+i	63
+4	163
+5	
+0	164
+1	-41
+2	"Violeta"
+3	"Violeta"
+4	126
+d	-38
+a	
+mi	
+C	-1
+a	"naranja"
+b	
+C	131
+a	
+mi	-11
+C	120
+a	"verde"
+b	198
+d	152
+F	37
+b	77
+d	
+mi	8
+a	21
+d	"azul"
+C	"amarillo"
+h	"Violeta"
+b	11
+gramo	"Violeta"
+F	
+mi	148
+C	98
+a	80
+b	78
+d	68
+d	"naranja"
+a	
+0	"Violeta"
+1	
+0	-30
+1	117
+2	
+0	78
+1	31
+3	74
+4	197
+5	"rojo"
+6	"naranja"
+7	95
+d	"verde"
+C	
+0	96
+1	"Violeta"
+h	
+mi	
+C	"verde"
+a	
+0	76
+1	dieciséis
+2	125
+3	"verde"
+4	15
+5	"Violeta"
+6	130
+7	60
+8	"rojo"
+b	"naranja"
+d	-38
+a	71
+d	158
+j	-dieciséis
+C	
+0	
+0	"amarillo"
+1	"verde"
+2	183
+3	165
+4	-28
+5	4
+6	102
+1	-20
+2	"azul"
+3	"Violeta"
+4	
+mi	"amarillo"
+C	
+mi	"naranja"
+a	"amarillo"
+d	"rojo"
+C	"naranja"
+h	"naranja"
+b	169
+gramo	"Violeta"
+F	48
+a	99
+b	
+0	"azul"
+1	-1
+2	"azul"
+d	104
+F	20
+5	83
+h	"verde"
+b	
+0	-14
+1	
+0	28
+2	"amarillo"
+3	
+0	93
+1	"azul"
+2	-24
+3	160
+4	35
+5	25
+6	-32
+7	"verde"
+4	
+mi	
+0	51
+1	"rojo"
+2	64
+3	"rojo"
+4	"azul"
+5	-dieciséis
+6	31
+7	146
+8	"azul"
+9	"amarillo"
+C	122
+a	"naranja"
+b	"amarillo"
+d	
+C	53
+a	179
+b	"azul"
+d	-44
+5	17
+6	110
+gramo	151
+F	"naranja"
+i	
+a	"Violeta"
+b	
+a	
+0	-24
+b	
+0	"Violeta"
+1	
+mi	
+mi	91
+a	
+mi	"azul"
+a	-25
+d	70
+C	"verde"
+h	"Violeta"
+b	48
+gramo	"Violeta"
+F	"naranja"
+d	"amarillo"
+C	136
+h	90
+b	
+mi	26
+C	"verde"
+a	"azul"
+gramo	"Violeta"
+b	192
+d	198
+F	86
+gramo	"naranja"
+F	"azul"
+a	137
+d	47
+C	11
+h	"amarillo"
+b	"naranja"
+gramo	"naranja"
+F	
+mi	"azul"
+a	45
+d	"Violeta"
+j	146
+C	-38
+h	4
+b	157
+gramo	104
+F	-13
+i	"amarillo"
+2	
+mi	191
+a	"azul"
+d	"verde"
+C	"azul"
+h	-19
+b	148
+gramo	"azul"
+F	
+mi	57
+C	"rojo"
+a	167
+b	
+0	-42
+1	147
+2	166
+3	74
+4	-32
+5	"naranja"
+6	"Violeta"
+7	"amarillo"
+d	"verde"
+F	71
+3	"verde"
+4	
+0	184
+1	"amarillo"
+2	
+0	
+0	"amarillo"
+1	"amarillo"
+1	"verde"
+2	
+mi	-24
+a	1
+d	44
+C	"amarillo"
+h	"amarillo"
+b	144
+gramo	"Violeta"
+F	"verde"
+i	-7
+3	86
+4	119
+5	52
+6	"naranja"
+7	
+0	"rojo"
+1	"rojo"
+2	18
+3	"naranja"
+4	192
+5	116
+8	120
+9	109
+5	
+0	"Violeta"
+1	-14
+2	"Violeta"
+3	
+mi	-29
+C	
+mi	"verde"
+a	"rojo"
+d	"azul"
+j	68
+C	9
+h	"naranja"
+b	25
+gramo	"rojo"
+F	10
+i	"verde"
+a	-15
+b	"azul"
+d	"Violeta"
+F	125
+4	119
+5	
+0	127
+1	"Violeta"
+2	"verde"
+3	39
+gramo	"verde"
+F	-14
+b	23
+d	
+C	
+C	98
+a	"amarillo"
+b	97
+a	-29
+b	
+a	192
+b	
+0	"Violeta"
+1	"amarillo"
+2	sesenta y cinco
+3	
+C	
+mi	"Violeta"
+C	"amarillo"
+a	"Violeta"
+b	"azul"
+d	"naranja"
+a	"rojo"
+b	176
+4	192
+d	"naranja"
+b	
+0	
+mi	"amarillo"
+C	45
+a	81
+b	
+0	"naranja"
+d	"Violeta"
+F	
+0	-3
+1	"rojo"
+2	146
+3	186
+4	"naranja"
+5	"rojo"
+6	"azul"
+7	
+mi	"verde"
+C	22
+a	"amarillo"
+b	"azul"
+d	-2
+F	"verde"
+8	0
+9	180
+1	
+0	
+0	-36
+1	
+0	"naranja"
+1	
+0	166
+2	"Violeta"
+2	
+C	86
+a	
+0	2
+1	173
+2	78
+3	"Violeta"
+4	"naranja"
+5	
+0	"Violeta"
+1	"amarillo"
+2	"azul"
+3	107
+4	24
+5	-1
+6	"naranja"
+7	13
+8	"verde"
+9	"Violeta"
+b	"Violeta"
+d	107
+3	100
+4	
+0	"amarillo"
+1	-22
+2	
+0	177
+1	69
+2	144
+3	84
+4	159
+5	"Violeta"
+3	"verde"
+5	
+mi	"verde"
+a	78
+d	173
+C	"azul"
+h	36
+b	
+0	
+0	-48
+1	164
+2	"rojo"
+3	"azul"
+4	45
+1	
+0	"verde"
+1	"naranja"
+2	23
+3	15
+4	110
+5	49
+6	"azul"
+2	"Violeta"
+3	0
+4	192
+5	53
+gramo	
+0	"azul"
+1	"Violeta"
+F	"naranja"
+i	
+0	
+mi	186
+C	"naranja"
+a	"verde"
+b	174
+d	"amarillo"
+F	46
+1	"Violeta"
+2	188
+3	"amarillo"
+4	54
+5	-6
+6	"azul"
+7	"Violeta"
+8	0
+9	
+mi	166
+a	"amarillo"
+d	"rojo"
+j	"azul"
+C	"rojo"
+h	97
+b	"Violeta"
+gramo	32
+F	173
+i	95
+6	
+a	58
+b	"azul"
+7	"verde"
+8	
+0	"rojo"
+1	150
+2	3
+3	"naranja"
+4	32
+5	106
+6	
+0	
+0	"azul"
+1	118
+2	
+C	178
+a	7
+b	185
+d	"Violeta"
+3	"rojo"
+4	164
+5	"rojo"
+6	
+0	128
+1	"rojo"
+7	-44
+7	
+mi	"naranja"
+a	"naranja"
+d	130
+C	"amarillo"
+h	"amarillo"
+b	
+mi	91
+a	161
+d	-44
+C	-45
+h	"azul"
+b	"naranja"
+gramo	122
+F	"naranja"
+gramo	"amarillo"
+F	"azul"
+8	139
+9	
+a	97
+1	"naranja"
+2	
+0	"naranja"
+1	0
+2	"azul"
+3	"rojo"
+4	
+mi	192
+C	92
+a	
+a	
+0	"rojo"
+1	164
+2	"amarillo"
+3	189
+4	"azul"
+5	150
+6	"verde"
+7	"Violeta"
+8	-35
+9	33
+b	"rojo"
+gramo	"amarillo"
+b	
+a	"azul"
+d	"rojo"
+F	-31
+5	111
+6	"amarillo"
+7	"rojo"
+8	
+0	
+0	"verde"
+1	"verde"
+2	42
+3	-47
+4	
+0	88
+1	142
+2	"azul"
+3	59
+4	-42
+5	"Violeta"
+5	"verde"
+1	"naranja"
+2	
+0	"Violeta"
+1	"amarillo"
+2	"Violeta"
+3	198
+4	94
+5	44
+6	"naranja"
+7	"verde"
+8	"azul"
+9	26
+3	"azul"
+4	"Violeta"
+3	
+a	118
+2	
+mi	-35
+a	
+mi	
+0	"naranja"
+1	-1
+2	121
+3	"rojo"
+C	"Violeta"
+a	
+0	
+0	127
+1	-18
+2	-4
+3	
+0	-40
+1	42
+2	"Violeta"
+3	167
+4	"naranja"
+5	112
+6	"naranja"
+4	30
+5	31
+6	"Violeta"
+7	37
+1	
+C	"azul"
+a	"verde"
+b	172
+2	
+0	141
+1	154
+3	146
+4	"amarillo"
+b	"azul"
+d	-3
+d	"rojo"
+C	-17
+h	-3
+b	
+0	"Violeta"
+1	"amarillo"
+2	19
+3	"rojo"
+4	8
+5	138
+6	37
+gramo	
+C	
+mi	-5
+C	
+0	-23
+1	21
+2	"verde"
+3	-3
+4	"rojo"
+a	163
+b	"azul"
+d	"rojo"
+F	
+0	"Violeta"
+1	136
+2	"Violeta"
+a	183
+b	-36
+d	"Violeta"
+F	
+0	"verde"
+1	
+0	"verde"
+1	
+mi	"rojo"
+C	"amarillo"
+a	10
+gramo	"azul"
+b	56
+d	"rojo"
+F	
+0	"verde"
+1	"rojo"
+2	"rojo"
+2	
+0	"Violeta"
+1	"naranja"
+2	
+mi	7
+C	170
+a	"verde"
+b	55
+d	115
+3	"verde"
+4	"azul"
+3	
+mi	
+mi	
+a	"azul"
+b	
+0	192
+1	"azul"
+2	86
+3	93
+a	"verde"
+d	"amarillo"
+C	186
+h	
+0	"Violeta"
+1	"naranja"
+2	"naranja"
+3	"Violeta"
+4	"rojo"
+5	"naranja"
+6	139
+7	"Violeta"
+8	"verde"
+9	
+mi	"rojo"
+a	85
+d	"naranja"
+C	"amarillo"
+h	
+0	46
+1	35
+2	"rojo"
+3	"verde"
+4	-11
+5	"azul"
+b	"amarillo"
+gramo	"amarillo"
+F	"naranja"
+b	
+mi	77
+a	"amarillo"
+d	"verde"
+C	144
+h	"verde"
+b	
+mi	
+0	27
+1	"azul"
+2	"amarillo"
+3	-48
+4	-21
+5	-12
+6	121
+7	"Violeta"
+a	
+0	-23
+d	"azul"
+j	
+mi	"naranja"
+C	"azul"
+a	"verde"
+b	-34
+d	"verde"
+C	"verde"
+h	"verde"
+b	61
+gramo	
+0	"azul"
+F	19
+i	"Violeta"
+gramo	86
+F	"naranja"
+gramo	"amarillo"
+F	"naranja"
+C	
+C	
+0	"amarillo"
+1	82
+2	"rojo"
+3	"naranja"
+4	
+mi	34
+C	"verde"
+a	"Violeta"
+b	182
+d	"naranja"
+F	
+mi	-49
+a	184
+d	57
+j	"amarillo"
+C	120
+h	"Violeta"
+b	170
+gramo	159
+F	-3
+i	99
+5	-37
+6	
+mi	84
+a	
+0	"Violeta"
+1	154
+2	"Violeta"
+3	123
+4	"Violeta"
+5	148
+6	105
+7	"amarillo"
+8	195
+d	"naranja"
+C	
+a	140
+h	"amarillo"
+b	159
+gramo	76
+F	186
+7	183
+a	
+0	
+mi	"amarillo"
+a	-2
+d	"verde"
+C	
+C	68
+a	"rojo"
+b	"azul"
+h	
+0	140
+1	99
+2	-2
+3	"verde"
+4	"naranja"
+5	"naranja"
+6	-14
+7	60
+8	"rojo"
+9	"verde"
+b	"Violeta"
+gramo	1
+F	
+0	"amarillo"
+1	"Violeta"
+i	142
+1	
+mi	
+a	76
+b	-17
+C	46
+a	
+0	76
+1	1
+2	79
+3	36
+4	-25
+5	"amarillo"
+6	0
+gramo	"amarillo"
+b	185
+d	54
+F	"verde"
+b	
+mi	127
+a	
+0	
+0	"Violeta"
+1	115
+2	114
+3	"rojo"
+4	"naranja"
+5	83
+6	-17
+7	-2
+d	
+mi	198
+C	"rojo"
+a	46
+b	77
+d	"verde"
+C	140
+h	"naranja"
+b	89
+gramo	149
+F	"naranja"
+a	"azul"
+gramo	62
+b	"naranja"
+d	"Violeta"
+F	
+mi	-11
+a	
+0	29
+1	"amarillo"
+2	"amarillo"
+3	187
+4	"naranja"
+5	
+mi	147
+a	197
+d	
+0	"verde"
+1	182
+2	-2
+3	95
+4	-8
+5	110
+6	-38
+C	"Violeta"
+h	187
+b	90
+gramo	22
+F	"amarillo"
+i	"verde"
+6	
+a	
+0	"azul"
+1	"rojo"
+2	140
+b	"Violeta"
+7	"azul"
+8	76
+9	59
+d	-26
+C	
+0	
+a	"naranja"
+b	179
+1	"rojo"
+2	
+mi	"Violeta"
+C	"naranja"
+a	"azul"
+gramo	"Violeta"
+b	25
+d	149
+F	-27
+3	
+mi	"verde"
+a	"amarillo"
+d	"Violeta"
+j	
+C	67
+a	179
+b	53
+C	145
+h	-4
+b	"azul"
+gramo	11
+F	"azul"
+i	"Violeta"
+h	"rojo"
+b	"azul"
+gramo	
+mi	"amarillo"
+C	
+0	93
+1	12
+2	118
+3	-7
+4	125
+5	93
+6	"amarillo"
+7	182
+8	113
+9	"amarillo"
+a	"verde"
+b	"verde"
+d	"Violeta"
+F	"verde"
+i	"verde"
+4	
+0	7
+d	
+0	
+0	
+0	42
+1	67
+2	
+mi	"amarillo"
+a	"naranja"
+d	
+mi	"naranja"
+C	"verde"
+a	-26
+gramo	
+0	68
+1	162
+2	"naranja"
+3	"rojo"
+b	105
+d	52
+F	"amarillo"
+C	
+mi	"naranja"
+a	"naranja"
+d	120
+C	"azul"
+h	
+0	172
+1	"naranja"
+2	171
+3	-40
+4	139
+5	161
+6	"amarillo"
+7	197
+b	"amarillo"
+gramo	
+0	162
+1	"naranja"
+2	2
+F	"amarillo"
+i	"naranja"
+h	-21
+b	"verde"
+gramo	
+mi	33
+a	6
+d	"Violeta"
+C	193
+h	89
+b	56
+gramo	146
+F	
+C	-46
+a	"verde"
+b	161
+i	149
+F	sesenta y cinco
+3	
+0	
+0	"amarillo"
+1	31
+2	-4
+1	"rojo"
+2	-27
+3	21
+4	
+mi	
+mi	-25
+a	-1
+d	"Violeta"
+C	"Violeta"
+h	"azul"
+b	"verde"
+gramo	"Violeta"
+F	"naranja"
+i	"amarillo"
+C	"naranja"
+a	"naranja"
+gramo	"naranja"
+b	60
+d	
+mi	"amarillo"
+C	"verde"
+a	"amarillo"
+gramo	"Violeta"
+b	134
+d	149
+F	"amarillo"
+F	"azul"
+5	"Violeta"
+6	
+0	66
+1	"verde"
+2	25
+3	106
+4	"rojo"
+5	"naranja"
+7	
+a	
+mi	"naranja"
+a	95
+d	"rojo"
+C	176
+h	179
+b	87
+gramo	195
+F	71
+i	"Violeta"
+b	14
+8	55
+4	"azul"
+1	
+0	
+0	62
+1	"Violeta"
+2	58
+3	
+0	-42
+1	"naranja"
+2	
+mi	186
+a	"naranja"
+d	"verde"
+j	100
+C	163
+h	-9
+b	"verde"
+gramo	"naranja"
+F	-8
+i	"naranja"
+3	"rojo"
+4	12
+5	"naranja"
+6	-3
+7	162
+8	"verde"
+4	"Violeta"
+5	94
+6	"naranja"
+7	41
+8	58
+9	"Violeta"
+1	
+0	
+0	"verde"
+1	"verde"
+2	"rojo"
+1	"rojo"
+2	128
+3	"azul"
+4	"amarillo"
+5	"amarillo"
+6	
+mi	"amarillo"
+a	193
+d	
+0	"naranja"
+1	134
+j	
+0	"verde"
+1	45
+2	195
+3	123
+4	50
+5	61
+C	"Violeta"
+h	-39
+b	13
+gramo	"amarillo"
+F	
+mi	-33
+C	26
+a	83
+b	122
+d	"naranja"
+i	"naranja"
+7	"azul"
+8	46
+9	"amarillo"
+2	"amarillo"
+3	"amarillo"
+4	30
+5	
+0	158
+1	
+C	"verde"
+a	68
+b	122
+2	
+mi	95
+C	"naranja"
+a	"verde"
+b	115
+d	180
+F	"amarillo"
+3	
+0	194
+1	-29
+2	"naranja"
+3	"Violeta"
+4	
+mi	173
+a	193
+d	"verde"
+j	"azul"
+C	"azul"
+h	"verde"
+b	"amarillo"
+gramo	"verde"
+F	186
+i	"rojo"
+5	135
+4	"Violeta"
+2	"amarillo"
+3	144
+4	
+0	"Violeta"
+1	"rojo"
+2	
+a	
+0	121
+b	134
+3	
+a	-23
+b	"Violeta"
+4	
+0	7
+5	
+0	101
+1	181
+2	"amarillo"
+3	
+mi	"Violeta"
+C	"verde"
+a	56
+b	"verde"
+d	175
+5	"Violeta"
+6	
+C	"verde"
+a	
+mi	"verde"
+C	-42
+a	-49
+b	
+0	
+0	"naranja"
+1	"amarillo"
+2	-17
+3	"naranja"
+4	-11
+5	-41
+6	"rojo"
+7	32
+1	"azul"
+2	46
+3	
+a	"amarillo"
+b	"Violeta"
+d	"rojo"
+F	
+0	"Violeta"
+1	"Violeta"
+2	-11
+b	
+0	"naranja"
+1	
+mi	62
+C	"Violeta"
+a	-5
+b	39
+d	
+0	122
+1	129
+2	"Violeta"
+3	"naranja"
+2	"verde"
+F	
+mi	
+mi	
+0	
+mi	
+a	"Violeta"
+C	171
+a	
+a	
+mi	122
+a	"azul"
+d	164
+j	54
+C	"Violeta"
+h	-1
+b	148
+gramo	"azul"
+F	190
+i	-37
+b	
+0	
+a	158
+1	"azul"
+2	26
+3	
+mi	"Violeta"
+C	"verde"
+a	64
+gramo	36
+b	"azul"
+d	"azul"
+F	"verde"
+4	"Violeta"
+5	125
+6	"naranja"
+d	"Violeta"
+1	"amarillo"
+2	
+C	
+mi	-46
+C	121
+a	191
+gramo	"azul"
+b	67
+d	-25
+F	"azul"
+a	"naranja"
+b	
+a	108
+b	
+0	"rojo"
+1	-48
+3	
+mi	116
+C	"verde"
+a	-34
+gramo	59
+b	"amarillo"
+d	37
+F	
+mi	-3
+a	105
+d	"rojo"
+C	"rojo"
+h	"verde"
+b	27
+gramo	189
+F	"Violeta"
+4	"rojo"
+5	
+0	"amarillo"
+1	152
+2	
+mi	"rojo"
+a	
+0	164
+1	155
+2	"verde"
+3	"amarillo"
+d	79
+C	"Violeta"
+h	
+mi	"azul"
+C	53
+a	"naranja"
+b	-43
+d	"Violeta"
+F	"naranja"
+b	32
+gramo	"verde"
+F	"verde"
+i	23
+3	"rojo"
+4	"Violeta"
+5	-37
+6	
+0	
+0	"verde"
+1	"Violeta"
+2	131
+3	-18
+4	"verde"
+1	48
+2	6
+3	"rojo"
+4	83
+7	152
+8	181
+9	75
+6	
+mi	
+0	116
+1	100
+2	"rojo"
+3	
+a	156
+4	"verde"
+C	"rojo"
+a	170
+gramo	
+0	28
+1	59
+2	"Violeta"
+3	"Violeta"
+4	144
+b	13
+d	
+a	"amarillo"
+b	"azul"
+F	
+mi	-45
+C	"naranja"
+a	"naranja"
+b	"verde"
+d	
+0	"naranja"
+1	"naranja"
+2	98
+3	-13
+4	"amarillo"
+5	183
+6	193
+7	"verde"
+F	"verde"
+7	128
+8	
+0	"verde"
+a	
+mi	
+mi	"verde"
+a	"amarillo"
+d	
+C	-48
+a	
+0	"Violeta"
+1	195
+2	77
+3	-13
+4	"verde"
+5	"rojo"
+b	"azul"
+d	"rojo"
+C	"Violeta"
+h	
+0	-13
+1	"verde"
+b	27
+gramo	-37
+F	197
+C	68
+a	-23
+b	93
+d	"naranja"
+F	
+a	"verde"
+b	-4
+d	
+0	-48
+C	
+0	
+0	"Violeta"
+1	"azul"
+2	"naranja"
+3	
+mi	42
+C	66
+a	
+0	"azul"
+1	"azul"
+2	"naranja"
+3	144
+4	130
+5	"rojo"
+6	"Violeta"
+7	"rojo"
+8	112
+b	"azul"
+d	192
+4	"naranja"
+5	
+0	"naranja"
+1	4
+2	"Violeta"
+3	-47
+4	"naranja"
+6	
+0	"Violeta"
+1	"amarillo"
+2	54
+3	
+C	47
+a	"amarillo"
+b	"rojo"
+4	
+a	"Violeta"
+5	151
+6	-30
+7	"naranja"
+8	"rojo"
+7	-31
+8	"azul"
+1	135
+2	
+mi	"rojo"
+a	
+0	5
+1	117
+d	119
+j	189
+C	
+mi	134
+a	142
+d	"naranja"
+j	189
+C	"rojo"
+h	"Violeta"
+b	"amarillo"
+gramo	122
+F	
+C	"naranja"
+a	"Violeta"
+b	"amarillo"
+i	107
+h	109
+b	15
+gramo	
+0	157
+1	135
+2	122
+3	-34
+4	168
+5	"verde"
+6	-19
+7	13
+8	64
+F	
+mi	"azul"
+C	174
+a	187
+gramo	"Violeta"
+b	36
+d	80
+F	188
+i	-10
+3	60
+4	"naranja"
+5	146
+6	
+mi	-8
+a	
+a	63
+d	"verde"
+C	67
+h	
+0	"azul"
+1	"amarillo"
+2	"rojo"
+3	"azul"
+4	
+0	"amarillo"
+1	189
+2	"naranja"
+3	"verde"
+5	"naranja"
+6	"Violeta"
+b	-29
+gramo	"naranja"
+F	
+0	"Violeta"
+1	"verde"
+2	"naranja"
+7	
+mi	"Violeta"
+C	"rojo"
+a	-45
+gramo	
+0	45
+1	"verde"
+2	-24
+3	-7
+4	
+a	67
+b	"rojo"
+5	"naranja"
+6	188
+7	
+0	"rojo"
+1	"azul"
+2	"rojo"
+8	47
+9	133
+b	
+mi	112
+a	76
+d	"amarillo"
+j	93
+C	"naranja"
+h	137
+b	154
+gramo	
+0	"naranja"
+1	"rojo"
+2	"amarillo"
+3	-26
+4	"naranja"
+F	-3
+i	"amarillo"
+d	
+mi	"Violeta"
+C	48
+a	174
+b	"verde"
+d	189
+F	
+0	69
+1	"rojo"
+2	
+a	"verde"
+b	"azul"
+3	"rojo"
+4	
+a	85
+8	
+mi	"Violeta"
+C	
+mi	"Violeta"
+C	"rojo"
+a	-22
+b	3
+d	
+mi	185
+C	52
+a	"amarillo"
+b	165
+d	"azul"
+F	"amarillo"
+a	45
+b	"verde"
+d	"azul"
+h	"naranja"
+b	
+mi	"rojo"
+C	68
+a	171
+gramo	-30
+b	"naranja"
+d	"Violeta"
+F	
+C	22
+a	
+0	"verde"
+b	148
+gramo	
+mi	77
+C	28
+a	
+0	"verde"
+1	"verde"
+2	
+a	"Violeta"
+b	115
+3	
+mi	59
+a	198
+d	"Violeta"
+C	"amarillo"
+h	-38
+b	"Violeta"
+gramo	69
+F	"Violeta"
+i	-12
+4	35
+b	"azul"
+d	
+mi	
+0	-20
+1	"naranja"
+2	"verde"
+3	116
+4	"amarillo"
+5	-21
+C	"rojo"
+a	"verde"
+b	160
+d	
+0	"Violeta"
+1	-49
+2	"amarillo"
+3	
+0	46
+1	"azul"
+2	196
+F	
+0	162
+1	
+C	
+0	-30
+1	"Violeta"
+a	"azul"
+b	"azul"
+d	83
+2	"azul"
+i	"verde"
+a	
+0	"azul"
+1	
+mi	
+mi	131
+C	"amarillo"
+a	"azul"
+gramo	
+mi	"amarillo"
+C	70
+a	
+mi	53
+C	100
+a	162
+b	-7
+d	-14
+F	"naranja"
+b	"amarillo"
+d	"verde"
+F	149
+b	
+0	184
+1	"verde"
+2	"azul"
+3	-38
+4	193
+5	75
+6	156
+d	96
+F	
+mi	177
+C	0
+a	
+C	"rojo"
+a	-23
+b	"amarillo"
+d	-37
+gramo	149
+b	"azul"
+d	61
+F	78
+C	-21
+a	
+0	
+mi	
+a	"amarillo"
+C	71
+a	
+mi	-46
+a	"amarillo"
+d	"verde"
+C	78
+h	59
+b	"verde"
+gramo	189
+F	"rojo"
+i	"rojo"
+b	"amarillo"
+d	
+mi	"Violeta"
+C	"Violeta"
+a	"naranja"
+b	189
+d	21
+F	71
+F	15
+1	"verde"
+2	150
+3	"amarillo"
+b	101
+d	"azul"
+F	"azul"
+2	"verde"
+3	
+0	
+0	-10
+1	
+C	61
+a	99
+b	"verde"
+1	"Violeta"
+2	
+0	"azul"
+1	-41
+3	54
+4	
+0	194
+1	146
+2	"verde"
+3	90
+4	"Violeta"
+5	"Violeta"
+6	-5
+7	"rojo"
+5	
+mi	114
+a	"verde"
+d	
+mi	"azul"
+a	"azul"
+d	
+0	"amarillo"
+1	10
+2	"azul"
+3	86
+4	44
+5	"Violeta"
+6	"rojo"
+7	"rojo"
+C	94
+h	
+mi	"rojo"
+C	"azul"
+a	89
+gramo	197
+b	148
+d	91
+F	52
+b	"naranja"
+gramo	"rojo"
+F	"verde"
+C	
+0	96
+1	127
+2	29
+h	"azul"
+b	"verde"
+gramo	"amarillo"
+F	
+mi	"verde"
+a	"azul"
+d	"naranja"
+j	40
+C	"rojo"
+h	92
+b	-49
+gramo	-34
+F	8
+i	125
+i	-30
+6	
+a	154
+b	100
+d	
+C	
+a	"Violeta"
+b	"Violeta"
+a	"amarillo"
+b	
+mi	
+0	83
+1	"rojo"
+2	
+0	"verde"
+1	
+a	"Violeta"
+2	126
+3	105
+4	86
+3	
+0	
+0	"azul"
+1	-40
+2	148
+3	"azul"
+1	168
+2	"rojo"
+3	"verde"
+4	
+0	"verde"
+1	41
+2	93
+3	"rojo"
+4	-19
+5	32
+6	"Violeta"
+7	"Violeta"
+8	"azul"
+9	"amarillo"
+4	
+a	"amarillo"
+b	"verde"
+5	
+0	85
+1	164
+6	17
+7	60
+8	66
+9	
+C	"amarillo"
+a	"amarillo"
+b	-10
+d	"amarillo"
+a	
+0	109
+1	28
+2	52
+3	
+0	118
+1	"Violeta"
+4	
+a	"azul"
+5	10
+6	163
+7	"verde"
+8	-21
+d	"verde"
+C	"verde"
+h	
+0	"Violeta"
+1	"Violeta"
+b	"azul"
+gramo	
+mi	-22
+C	
+0	"amarillo"
+1	119
+2	127
+a	"verde"
+gramo	1
+b	
+0	
+a	100
+b	"amarillo"
+1	63
+2	41
+3	168
+4	152
+5	"amarillo"
+6	198
+7	-14
+8	30
+9	103
+d	"Violeta"
+F	
+0	"azul"
+1	135
+2	"amarillo"
+3	"verde"
+4	"amarillo"
+5	
+0	"amarillo"
+1	35
+2	91
+3	182
+F	"amarillo"
+i	
+C	"verde"
+a	
+0	
+a	"amarillo"
+1	"verde"
+2	"naranja"
+3	50
+4	117
+5	94
+6	"rojo"
+7	89
+b	"rojo"
+j	
+mi	
+mi	
+a	70
+C	
+0	"azul"
+1	"Violeta"
+a	113
+b	
+mi	"amarillo"
+C	-9
+a	135
+b	"amarillo"
+d	81
+d	
+mi	189
+a	-19
+d	-14
+j	
+mi	"verde"
+a	1
+d	"Violeta"
+C	"rojo"
+h	106
+b	"verde"
+gramo	-19
+F	192
+i	"verde"
+C	195
+h	"amarillo"
+b	"naranja"
+gramo	45
+F	"verde"
+i	"Violeta"
+F	75
+a	"Violeta"
+d	"azul"
+C	"rojo"
+h	113
+b	
+0	14
+1	
+mi	82
+a	
+mi	59
+a	182
+d	"amarillo"
+C	"azul"
+h	"amarillo"
+b	"verde"
+gramo	93
+F	"amarillo"
+i	147
+d	58
+C	"Violeta"
+h	
+a	
+mi	27
+a	"naranja"
+d	181
+C	142
+h	195
+b	"amarillo"
+gramo	44
+F	"amarillo"
+b	-14
+gramo	"rojo"
+F	
+a	154
+i	90
+2	"naranja"
+3	
+a	"azul"
+b	-11
+4	
+0	"amarillo"
+1	
+0	38
+1	-34
+2	"naranja"
+3	57
+2	"naranja"
+3	98
+4	"Violeta"
+5	"Violeta"
+6	
+a	134
+7	
+0	24
+1	"azul"
+2	"azul"
+3	172
+4	114
+8	10
+5	
+0	
+a	
+0	"amarillo"
+1	"verde"
+1	166
+2	"azul"
+3	
+0	"azul"
+1	
+mi	"azul"
+C	-6
+a	"verde"
+b	"verde"
+d	"verde"
+F	50
+2	-44
+3	
+mi	"Violeta"
+a	"amarillo"
+d	-27
+j	33
+C	"naranja"
+h	146
+b	"verde"
+gramo	30
+F	"Violeta"
+i	"Violeta"
+4	"azul"
+5	"rojo"
+6	"Violeta"
+7	6
+6	113
+gramo	
+mi	
+mi	"rojo"
+a	125
+d	183
+j	74
+C	
+0	"verde"
+1	"amarillo"
+h	12
+b	
+0	"verde"
+1	-38
+2	"amarillo"
+gramo	71
+F	"azul"
+i	"azul"
+a	
+0	"verde"
+1	86
+2	28
+3	
+0	55
+1	127
+2	"azul"
+3	172
+4	"verde"
+5	83
+6	"verde"
+7	"Violeta"
+8	
+a	53
+9	"azul"
+4	
+a	181
+b	57
+5	
+0	28
+1	"Violeta"
+6	"rojo"
+7	
+a	138
+8	198
+d	"amarillo"
+C	
+0	
+mi	"Violeta"
+C	sesenta y cinco
+a	"verde"
+b	
+mi	"naranja"
+a	68
+d	"naranja"
+C	"verde"
+h	161
+b	"verde"
+gramo	"verde"
+F	13
+d	-38
+1	"azul"
+2	
+mi	73
+a	40
+d	"verde"
+C	"rojo"
+h	"amarillo"
+b	117
+gramo	178
+F	170
+3	"amarillo"
+4	188
+h	
+a	-21
+b	
+C	86
+a	
+0	"verde"
+1	"verde"
+2	170
+3	"azul"
+4	-40
+5	"amarillo"
+6	"rojo"
+7	10
+b	
+0	
+0	"verde"
+1	"amarillo"
+2	2
+3	"Violeta"
+4	-30
+5	"amarillo"
+6	"rojo"
+7	-40
+8	"naranja"
+9	"Violeta"
+1	"rojo"
+2	58
+3	165
+4	"rojo"
+d	13
+gramo	
+a	63
+F	"Violeta"
+F	
+0	"verde"
+i	
+0	
+0	"amarillo"
+1	"amarillo"
+2	"rojo"
+3	
+mi	-5
+C	124
+a	"amarillo"
+gramo	"Violeta"
+b	"naranja"
+d	"Violeta"
+F	149
+4	-dieciséis
+5	9
+1	"Violeta"
+2	-43
+3	
+C	9
+a	52
+b	179
+d	74
+4	"Violeta"
+5	
+0	
+mi	-30
+a	82
+d	"verde"
+j	49
+C	
+mi	"verde"
+a	"Violeta"
+d	"amarillo"
+j	"azul"
+C	37
+h	"Violeta"
+b	48
+gramo	12
+F	"verde"
+i	"rojo"
+h	58
+b	
+0	"amarillo"
+1	"azul"
+2	"azul"
+3	29
+4	"naranja"
+5	"verde"
+6	"verde"
+7	0
+gramo	128
+F	"naranja"
+i	91
+1	
+0	181
+1	"rojo"
+2	"verde"
+3	"Violeta"
+4	"rojo"
+5	"verde"
+6	"naranja"
+7	
+mi	"verde"
+a	"amarillo"
+d	"verde"
+C	24
+h	194
+b	128
+gramo	"rojo"
+F	162
+i	"Violeta"
+8	191
+2	"rojo"
+3	"Violeta"
+4	"amarillo"
+5	"rojo"
+6	141
+7	123
+C	
+a	95
+h	
+a	138
+b	118
+gramo	"verde"
+F	0
+i	"Violeta"
