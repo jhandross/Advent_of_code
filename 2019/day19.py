@@ -141,14 +141,14 @@ def bottom_left(A, n=-1):
         return bottom_left(A, n - 1)
 
 
-def easy():
+def prt1():
     for i, j in product(*[range(50) for _ in range(2)]):
         v.check([i, j])
     v.A = v.A[:50, :50]
     print('Part 1:',(v.A - 1).sum())
 
 
-def hard():
+def prt2():
     y_a, x_a = top_right(v.A)
     y_b, x_b = bottom_left(v.A)
     da = y_a / x_a
@@ -175,6 +175,5 @@ def hard():
                 return print('Part 2:',x * 10000 + y)
 
 
-if __name__ == "__main__":
-    easy()
-    hard()
+prt1()
+prt2()
