@@ -129,7 +129,7 @@ def main():
                 if len(path) < len(best_path):
                     best_path = path
     
-    print(f"Part 2: {len(best_path)}")
+    print(f"Part 2: {(len(best_path)-1)}")
     render_as_plt(grid, best_path)
 
         
@@ -147,7 +147,7 @@ def render_as_plt(grid, path):
     axes.set_ylim(min(y_vals)-1, max(y_vals)+1)
     #axes.invert_yaxis()
     
-    axes.scatter(x_vals, y_vals, marker="o", s=5, color="black")
+    axes.scatter(x_vals, y_vals, marker="o", s=5, color="grey")
     axes.scatter(path_x, path_y, marker="o", s=5, color="red")
     plt.show()
 
