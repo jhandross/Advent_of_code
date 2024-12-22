@@ -1,16 +1,14 @@
-from functools import cmp_to_key
+from collections import defaultdict
 
-with open('05.txt') as file:
-    rules_raw, manuals_raw = file.read().split('\n\n')
-    rules = set(rules_raw.splitlines())
-    manuals = [[int(x) for x in line.split(',')] for line in manuals_raw.splitlines()]
+data = [line.strip() for line in open('05.txt') if line.strip()]
+rules = defaultdict(set)
 
-compare = cmp_to_key(lambda a, b: -1 if f"{a}|{b}" in rules else 0)
-sorted_pages = lambda manual: sorted(manual, key=compare)
-get_mid = lambda items: items[len(items) // 2]
+[rules[a].add(b) for line in data if '|' in line for a, b in [map(int, line.split('|'))]]
+updates = [list(map(int, line.split(','))) for line in data if ',' in line]
+is_correct = lambda u: all(not (set(u[:i]) & rules[u[i]]) for i in range(len(u)))
 
-part1 = sum(get_mid(m) for m in manuals if sorted_pages(m) == m)
-part2 = sum(get_mid(sorted_pages(m)) for m in manuals) - part1
+ans1 = sum(u[len(u) // 2] for u in updates if is_correct(u))
+ans2 = sum(next(n for n in update if len(rules[n] & set(update)) == len(update) // 2)
+           for update in updates if not is_correct(update))
 
-print(part1)
-print(part2)
+print(f"{ans1}\n{ans2}")
