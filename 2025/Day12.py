@@ -1,0 +1,1 @@
+print(sum(7*sum(map(int,l[6:].split()))<int(l[:2])*int(l[3:5])for l in open("day12.txt").readlines()[30:]))
